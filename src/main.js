@@ -9,5 +9,5 @@ new Vue({
 	el: '#app',
 	router,
 	template:'<router-view></router-view>',
-	// components: { App }
-})
+	components: { App }
+});
